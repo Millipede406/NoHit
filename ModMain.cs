@@ -15,7 +15,11 @@ namespace MillimediaGames.NoHit
 
             if(Game.State == GameState.QUESTING)
             {
-                // Forcing health values to be 1
+                // Forcing health values to be 1, unless health is below 1
+
+                if (Player.P1.Status.health <= 1)
+                    return;
+
                 Player.P1.Status.health = 1;
                 Player.P2.Status.health = 1;
             }
