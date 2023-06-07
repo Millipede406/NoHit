@@ -7,11 +7,11 @@ using MillimediaGames.NoHit;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("No Hit")]
+[assembly: AssemblyTitle("NoHit")]
 [assembly: AssemblyDescription("Slightly Challenging...")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Millimedia Games")]
-[assembly: AssemblyProduct("No Hit")]
+[assembly: AssemblyProduct("NoHit")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
