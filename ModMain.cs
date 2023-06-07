@@ -1,7 +1,7 @@
 ﻿using System;
 using MelonLoader;
 
-namespace MillimediaGames.TheChallenge
+namespace MillimediaGames.NoHit
 {
     /* 
      * The To-Do list

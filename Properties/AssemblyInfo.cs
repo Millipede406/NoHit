@@ -2,16 +2,16 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using MelonLoader;
-using MillimediaGames.TheChallenge;
+using MillimediaGames.NoHit;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("The Challenge")]
+[assembly: AssemblyTitle("No Hit")]
 [assembly: AssemblyDescription("Slightly Challenging...")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MillimediaGames")]
-[assembly: AssemblyProduct("The Challenge")]
+[assembly: AssemblyCompany("Millimedia Games")]
+[assembly: AssemblyProduct("No Hit")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -37,5 +37,5 @@ using MillimediaGames.TheChallenge;
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
-[assembly: MelonInfo(typeof(ModMain), "The Challenge", "1.0.0", "Millimedia Games")]
+[assembly: MelonInfo(typeof(ModMain), "No Hit", "1.0.0", "Millimedia Games")]
 [assembly: MelonGame("Lychee Game Labs", "Patch Quest")]
