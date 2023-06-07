@@ -57,6 +57,10 @@
     <Reference Include="UnityEngine">
       <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PatchQuest\profiles\Debug\MelonLoader\Managed\UnityEngine.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>A:\Program Files v2\Steam_Moment\steamapps\common\Patch Quest\MelonLoader\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
       <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PatchQuest\profiles\Debug\MelonLoader\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
