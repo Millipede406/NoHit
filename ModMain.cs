@@ -5,6 +5,6 @@ namespace MillimediaGames.NoHit
 {
     public class ModMain : MelonMod
     {
-        // test
+
     }
 }
